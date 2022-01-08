@@ -1,1 +1,4 @@
-# captcha-generator-
+# captcha-generator
+
+We perform daily activities on the internet. You must often encounter CAPTCHA and reCAPTCHA tests on the Internet. CAPTCHAs are used by any website that wishes to restrict usage by bots.Its primary motive is to determine whether the user is a real human or a spam robot. CAPTCHA is an example of one-way conversion and a type of challenge-response test used in computing to determine whether or not the user is human.The most common form is Image CAPTCHA. You are shown an image and if you are a real person, then you need to enter its text in a separate field.The CAPTCHA presents characters in a way that is alienated and requires interpretation. Alienation can involve scaling, rotation, distorting characters. It can also involve overlapping characters with graphic elements such as colour, background noise, lines, arcs, or dots. This alienation provides protection against bots with insufficient text recognition algorithms but can also be difficult for humans to interpret.
+
